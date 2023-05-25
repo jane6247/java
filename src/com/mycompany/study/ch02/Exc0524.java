@@ -1,15 +1,11 @@
 package com.mycompany.study.ch02;
 
-public class HelloWorld {
+public class Exc0524 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("HelloWorld"); 
-		
-		
-		//변수 선언 : 데이터타입 변스명;
-		//변수 초기화: 데이터타입 변수명 = 리터럴;
+		System.out.println("HelloWorld");
 		
 		boolean a = true;
 		boolean b = false;
@@ -21,8 +17,7 @@ public class HelloWorld {
 		int e,f,g;
 		e = 10;
 		System.out.println("e: " + e); 
-		
-	//System.out.println("c:" + c); 
+		System.out.println(b); 
 
 	}
 

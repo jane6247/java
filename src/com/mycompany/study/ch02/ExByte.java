@@ -4,7 +4,9 @@ public class ExByte {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-        // byte: -128 ~ 127
+       
+		
+		// byte: -128 ~ 127
 		
 		byte number = -128;
 		byte number2 = 127;

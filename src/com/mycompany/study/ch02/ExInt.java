@@ -6,8 +6,10 @@ public class ExInt {
 		// TODO Auto-generated method stub
 		
 		int var1 = 10; //십진수
-		int var2 = 10; //8진수
-		int var3 = 10; //16진수
+		int var2 = 12; //8진수
+		int var3 = 0xa; //16진수
+		
+	
 		
 		System.out.println("var1: " + var1);
 		System.out.println("var2: " + var1);

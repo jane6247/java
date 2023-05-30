@@ -38,6 +38,6 @@ public class ExLogicalOperator {
 		if(a >=65 ^ a <=70) {
 			System.out.println("^2:True"); //출력 되지 않음
 		}
-	}
+	}  
 
 }

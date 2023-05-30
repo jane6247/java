@@ -12,6 +12,7 @@ public class ExBoolean {
 		//초기화
 		//변수명은 default1Ny 로 불리언 변수 선언 초기값은 true
 		//boolean default1Ny = true;
+		  
 		
 		////변수명은 default2Ny 로 불리언 변수 선언 초기값은 false
 		boolean default2Ny = false;

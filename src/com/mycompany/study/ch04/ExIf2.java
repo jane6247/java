@@ -41,7 +41,7 @@ public class ExIf2 {
 		
 		
 		
-		/*
+		/*내가 작성한 부분 
 		 * if(grade > 2) { System.out.println("정가가 12000원인 일반 등급의 할인가는: " +
 		 * "9600원입니다."); }else if(grade > 3) {
 		 * System.out.println("정가가 12000원인 브론즈 등급의 할인가는: " + "10200원입니다."); }else

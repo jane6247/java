@@ -69,7 +69,6 @@ public class ExIf {
 		
 		}
 		
-		
 		else if (score>=60) {
 			if(score >=67) {
 				System.out.println(" 당신의 학점은 d+입니다");

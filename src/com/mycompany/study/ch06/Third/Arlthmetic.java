@@ -21,6 +21,7 @@ public class Arlthmetic {
     	int y = a * b;
     	return y;
     }
+    
 
     // x : 장원영 y : tony
     public String changeName(String name) {

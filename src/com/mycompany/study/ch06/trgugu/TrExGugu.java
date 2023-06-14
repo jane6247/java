@@ -7,7 +7,7 @@ public class TrExGugu {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-Scanner scanner = new Scanner(System.in); // Scanner 객체 생성
+        Scanner scanner = new Scanner(System.in); // Scanner 객체 생성
 		
 		TrGugu trGuGu = new TrGugu();
 		

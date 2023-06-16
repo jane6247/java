@@ -8,11 +8,16 @@ public class ExBeep {
 		// TODO Auto-generated method stub
 
 		
-Toolkit toolkit = Toolkit.getDefaultToolkit();
+Toolkit toolkit = Toolkit.getDefaultToolkit();   // 
 		
 		for(int i=0; i<5; i++) {		
 			toolkit.beep();
-//			Thread.sleep(500);
+			try {
+				Thread.sleep(500);// 잠깐씩 소프트웨어를 멈추게 하는 것 
+			}catch(InterruptedException e) {
+				e.printStackTrace();
+			}
+
 		}
 	}
 

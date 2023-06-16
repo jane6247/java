@@ -26,9 +26,6 @@ private int volume;
 		System.out.println("현재 TV 볼륨: " + this.volume);
 	}
 
-반응
-
-댓글
 
 
 

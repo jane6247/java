@@ -6,6 +6,6 @@ public class ComputerExample {
         double area = computer.calculateArea(radius);   
       System.out.println("원의 반지름: " + radius);
         System.out.println("원의 면적: " + area);
-        System.out.println("원의 면적: " + area);
+        
     }
 }
